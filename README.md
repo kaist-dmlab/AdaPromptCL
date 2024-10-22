@@ -3,6 +3,7 @@
 
 One Size Fits All for Semantic Shifts: Adaptive Prompt Tuning for Continual Learning
 - This work has been published in the proceedings of ICML 2024.
+- [Paper link](https://openreview.net/pdf?id=WUi1AqhKn5)
 
 
 
